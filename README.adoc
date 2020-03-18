@@ -36,9 +36,19 @@ Para añadir animaciones utilizando solamente CSS.
 
 #### https://reactjs.org/[React.js]
 
-Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs] o https://svelte.dev/[Svelte] principalmente por su alta popularidad y la posibilidad de extrapolar los conocimientos a desarrollo móvil con https://reactnative.dev/[React Native]. Una buena alternativa a https://reactjs.org/[React] es https://preactjs.com/[Preact], que es básicamente la misma API pero más ligera. Complementar con https://github.com/ReactTraining/react-router[React Router].
+Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs] o https://svelte.dev/[Svelte] principalmente por su alta popularidad y la posibilidad de extrapolar los conocimientos a desarrollo móvil con https://reactnative.dev/[React Native]. Una buena alternativa a https://reactjs.org/[React] es https://preactjs.com/[Preact] o https://infernojs.org/[Inferno], que es básicamente la misma API pero más ligera. Complementar con https://github.com/ReactTraining/react-router[React Router].
 
 Se recomienda el utilizar https://reactjs.org/docs/hooks-overview.html[React Hooks].
+
+Se recomienda https://github.com/facebook/create-react-app[Create React App] (https://github.com/tuchk4/awesome-create-react-app) para iniciar los proyectos. Una alternativa es https://github.com/NYTimes/kyt[Kyt].
+
+#### https://stylelint.io/[Style lint]
+
+Para validar los estilos css.
+
+#### https://sass-lang.com/[Sass]
+
+Para crear estilos css más modulares y fáciles de mantener.
 
 #### https://ant.design/[Ant.design]
 
@@ -242,6 +252,10 @@ ext install es7-react-js-snippets
 ### http://reactivex.io/[Reactive X]
 
 Para facilitar aplicaciones asíncronas y basadas en eventos.
+
+### https://github.com/neutrinojs/neutrino/[Neutrino]
+
+Facilita la creación de proyectos JS.
 
 ### https://about.gitlab.com/[Gitlab]
 
