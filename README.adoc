@@ -18,6 +18,8 @@ toc::[]
 
 En el ecosistema de _Javascript_ existe una gran multitud de herramientas para poder elaborar proyectos. En este pequeño documento se pondrá una selección pragmática con el fin de facilitar la toma de decisiones. Como siempre, se debe elegir según las necesidades de cada contexto. Tomen esta guía como simples sugerencias.
 
+Se recomienda utilzar Javascript (Con https://babeljs.io/[Babel] y https://webpack.js.org/[WebPack]) en la mayoría de los casos. Si se desea un lenguaje más orientado a objetos se recomienda utilizar https://www.typescriptlang.org/[Typescript].
+
 ## Frontend
 
 Las herramientas seleccionadas para elaborar proyectos de fontend son las siguientes.
