@@ -186,7 +186,7 @@ Como alternativa a https://aws.amazon.com/es/s3/[Amazon S3].
 
 ### https://jestjs.io/[Jest]
 
-Test runner. Una alternativa es https://mochajs.org/[Mocha] con https://www.chaijs.com/[Chai].
+Test runner. Una alternativa es https://mochajs.org/[Mocha] con https://www.chaijs.com/[Chai] o https://github.com/avajs/ava[Ava].
 
 ### https://github.com/enzymejs/enzyme[Enzyme]
 
@@ -249,9 +249,9 @@ ext install es7-react-js-snippets
 - https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/
 - https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/
 
-### http://reactivex.io/[Reactive X]
+### https://ramdajs.com/[Rambda.js]
 
-Para facilitar aplicaciones asíncronas y basadas en eventos.
+Para facilitar aplicaciones asíncronas y basadas en eventos con programación funcional. Alternativa http://reactivex.io/[Reactive X]. 
 
 ### https://github.com/neutrinojs/neutrino/[Neutrino]
 
