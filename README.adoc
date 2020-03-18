@@ -168,6 +168,10 @@ Para la estandarización de servicios REST. Alternativa de documentación https:
 
 Para la estandarización de servicios GraphQL.
 
+#### https://github.com/minio/[MinIO]
+
+Como alternativa a https://aws.amazon.com/es/s3/[Amazon S3].
+
 ## Testing
 
 ### https://jestjs.io/[Jest]
