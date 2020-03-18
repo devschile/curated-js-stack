@@ -46,11 +46,11 @@ Un sistema de diseño para productos de calidad empresarial. Un complemento es h
 
 #### https://github.com/axios/axios[Axios]
 
-Utilizar _axios_ para hacer llamados a servidores REST. Complementar con https://github.com/infinitered/apisauce[API Sauce] y https://github.com/zeit/swr[SWR]. Para clientes _GraphQL_ se recomienda usar https://www.apollographql.com/[Apollo].
+Utilizar _axios_ para hacer llamados a servidores REST. Complementar con https://github.com/RasCarlito/axios-cache-adapter[Cache Adapter], https://github.com/infinitered/apisauce[API Sauce] y https://github.com/zeit/swr[SWR]. Para clientes _GraphQL_ se recomienda usar https://www.apollographql.com/[Apollo].
 
 #### https://redux-toolkit.js.org/[Redux]
 
-Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Redux] con https://github.com/reduxjs/redux-thunk[Redux Thunk]. Complementar con https://github.com/jkeam/reduxsauce[Redux Sauce] y https://github.com/rt2zz/redux-persist[Redux Persist]. Una alternativa a todo esto es https://github.com/dvajs/dva[DVA].
+Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Redux] con https://github.com/reduxjs/redux-thunk[Redux Thunk]. Complementar con https://github.com/jkeam/reduxsauce[Redux Sauce] y https://github.com/rt2zz/redux-persist[Redux Persist]. Se recomienda seguir el patrón https://github.com/erikras/ducks-modular-redux[Ducks]. Una alternativa a todo esto es https://github.com/dvajs/dva[DVA].
 
 #### https://github.com/jaredpalmer/formik[Formik]
 
