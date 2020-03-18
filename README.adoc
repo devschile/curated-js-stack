@@ -104,7 +104,9 @@ Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho 
 
 #### Aplicación Móvil Nativa (https://reactnative.dev/[React Native])
 
-Permite elaborar aplicaciones utilizando la misma tecnología de _React_. Complementar con https://reactnavigation.org/[React Navigation].
+Permite elaborar aplicaciones utilizando la misma tecnología de _React_. Complementar con https://reactnavigation.org/[React Navigation] y https://nativebase.io/[NativeBase]. Alternativa https://www.nativescript.org/[NativeScript].
+
+Para elaborar las apps se recomienda https://github.com/galio-org/galio[Galio Framework] y https://github.com/thecodingmachine/react-native-boilerplate[React Native Boilerplate].
 
 #### Aplicación Móvil Webview (https://onsen.io/[Onsen])
 
