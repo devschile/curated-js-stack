@@ -280,3 +280,8 @@ Para tener una gestión de DNS mejorada.
 ### https://www.postman.com/[Postman]
 
 Para probar APIs. Alternativas https://insomnia.rest/[Insomnia] y https://postwoman.io/[Postwoman].
+
+### Multi idiomas con https://www.i18next.com/[i18next]
+
+Complementar con https://github.com/zanata/zanata-platform[Zanata] o https://crowdin.com/[Crowdin].
+
