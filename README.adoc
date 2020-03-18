@@ -102,3 +102,23 @@ Otorga un marco de trabajo para crear aplicaciones móviles de Webview usando _R
 
 Una buena alternativa a https://www.electronjs.org/[Electron].
 
+## Backend
+
+Para proyectos a nivel del servidor se han seleccionado las siguientes herramientas.
+
+### Sistema Headless CMS (https://strapi.io/[Strapi.js])
+
+Ideal como una alternativa a _Wordpress_.
+
+### Sistema API Simple (https://github.com/lukeed/polka[Polka])
+
+Para APIs simples y rápidas.
+
+### Sistema API Compleja (https://adonisjs.com/[Adonis.js])
+
+Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js].
+
+### Sistema API Serverless (https://claudiajs.com/claudia.html[Claudia.js])
+
+Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda].
+
