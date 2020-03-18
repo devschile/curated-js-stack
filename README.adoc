@@ -6,7 +6,7 @@
 
 Una super pragmática selección de herramientas Javascript para distintos tipos de proyectos. 
 
-Escrito por https://ninjas.cl[Camilo Castro] y https://github.com/devschile/guia-laboral/graphs/contributors[Colaboradores]. Para https://devschile.cl[DevsChile.cl].
+Escrito por https://ninjas.cl[Camilo Castro] y https://github.com/devschile/curated-js-stack/graphs/contributors[Colaboradores]. Para https://devschile.cl[DevsChile.cl].
 
 Esta obra está bajo una http://creativecommons.org/licenses/by-nc-sa/4.0/[Licencia Creative Commons Atribución-No-Comercial-Compartir-Igual 4.0 Internacional]
 
