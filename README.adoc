@@ -72,6 +72,18 @@ Una forma novedosa de editar el contenido dentro del sitio web.
 
 Para hacer logging. Alternativas https://github.com/winstonjs/winston[Winston] y https://github.com/download/ulog[uLog].
 
+#### https://pouchdb.com/[PouchDB]
+
+https://pouchdb.com/[PouchDB] para sincronizar datos cliente - servidor.
+
+#### https://github.com/socketio/socket.io[Socket.io]
+
+https://github.com/socketio/socket.io[Socket.io] para enviar datos en tiempo real.
+
+#### https://momentjs.com/[Moment.js]
+
+https://momentjs.com/[Moment.js] para manejo de fechas. Unas alternativas https://github.com/you-dont-need/You-Dont-Need-Momentjs[en este repo].
+
 #### https://docsify.js.org/#/[Docsify.js]
 
 Una simple forma de generar páginas de documentación. Una buena alternativa es https://docusaurus.io/en/[Docusaurus].
@@ -112,11 +124,11 @@ Para proyectos a nivel del servidor se han seleccionado las siguientes herramien
 
 ### Sistema Headless CMS (https://strapi.io/[Strapi.js])
 
-Ideal como una alternativa a _Wordpress_.
+https://strapi.io/[Strapi.js] es ideal como una alternativa a _Wordpress_.
 
 ### Sistema API Simple (https://github.com/lukeed/polka[Polka])
 
-Para APIs simples y rápidas.
+https://github.com/lukeed/polka[Polka] para APIs simples y rápidas.
 
 ### Sistema API Compleja (https://adonisjs.com/[Adonis.js])
 
@@ -124,5 +136,16 @@ Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js]
 
 ### Sistema API Serverless (https://claudiajs.com/claudia.html[Claudia.js])
 
-Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda].
+Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Si no se desea utilizar _Amazon_
+se puede utilizar https://github.com/openfaas/faas[OpenFaaS] o https://serverless.com/[Serverless].
+
+## Testing
+
+### https://jestjs.io/[Jest]
+
+Test runner. Una alternativa es https://mochajs.org/[Mocha] con https://www.chaijs.com/[Chai].
+
+### https://github.com/enzymejs/enzyme[Enzyme]
+
+https://github.com/enzymejs/enzyme[Enzyme] es exclusivo para React. Permite probar el contenido de los componentes.
 
