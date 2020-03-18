@@ -18,7 +18,7 @@ toc::[]
 
 En el ecosistema de _Javascript_ existe una gran multitud de herramientas para poder elaborar proyectos. En este pequeño documento se pondrá una selección pragmática con el fin de facilitar la toma de decisiones. Como siempre, se debe elegir según las necesidades de cada contexto. Tomen esta guía como simples sugerencias.
 
-Se recomienda utilzar Javascript (Con https://babeljs.io/[Babel] y https://webpack.js.org/[WebPack]) en la mayoría de los casos. Si se desea un lenguaje más orientado a objetos se recomienda utilizar https://www.typescriptlang.org/[Typescript].
+Se recomienda utilizar Javascript (Con https://babeljs.io/[Babel] y https://webpack.js.org/[WebPack]) en la mayoría de los casos. Si se desea un lenguaje más orientado a objetos se recomienda utilizar https://www.typescriptlang.org/[Typescript].
 
 ## Frontend
 
@@ -139,6 +139,20 @@ Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js]
 Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Si no se desea utilizar _Amazon_
 se puede utilizar https://github.com/openfaas/faas[OpenFaaS] o https://serverless.com/[Serverless].
 
+### Base de Datos
+
+#### https://www.postgresql.org/[PostgreSQL]
+
+Para almacenamiento relacional.
+
+#### https://redis.io/[Redis]
+
+Para almacenamiento de datos rápido, cache y cálculo de puntos de geoposición.
+
+#### https://www.mongodb.com/[MongoDB]
+
+Para almacenamiento de datos no relacional. Alternativa https://couchdb.apache.org/[CouchDB].
+
 ## Testing
 
 ### https://jestjs.io/[Jest]
@@ -149,3 +163,75 @@ Test runner. Una alternativa es https://mochajs.org/[Mocha] con https://www.chai
 
 https://github.com/enzymejs/enzyme[Enzyme] es exclusivo para React. Permite probar el contenido de los componentes.
 
+## Misceláneo
+
+Herramientas de uso general.
+
+### https://prettier.io/[Prettier.io]
+
+Estandaríza el estilo de código. Seguir la guía de estilo de https://github.com/airbnb/javascript[AirBNB].
+
+### https://editorconfig.org/[Editor Config]
+
+Estandariza las opciones en los editores.
+
+```
+# editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+indent_size = 2
+```
+
+### https://eslint.org/[Eslint]
+
+Permite corregir y detectar errores al escribir el código.
+
+### https://code.visualstudio.com/[Visual Studio Code]
+
+Editor de código flexible. Para la terminal se recomienda https://neovim.io/[NeoVim].
+
+*Extensiones recomendadas*
+
+```
+ext install EditorConfig
+ext install rainbow-brackets
+ext install indent-rainbow
+ext install vsc-material-theme
+ext install vsc-material-theme-icons
+ext install project-manager
+ext install vscode-todo-highlight
+ext install dotenv
+ext install auto-close-tag
+ext install es7-react-js-snippets
+```
+
+*Cursos Recomendados*
+
+- https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/
+- https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/
+
+### http://reactivex.io/[Reactive X]
+
+Para facilitar aplicaciones asíncronas y basadas en eventos.
+
+### https://about.gitlab.com/[Gitlab]
+
+Para control de código y apoyo en la gestión de proyectos.
+
+### https://www.digitalocean.com/[Digital Ocean]
+
+Para servidores VPS. Alternativas https://www.vultr.com/[Vultr] y https://www.linode.com/[Linode]. Para algo un poco más administrado https://www.netlify.com/[Netlify].
+
+### https://firebase.google.com/[Firebase]
+
+Para un servicio de base de datos, push notificacions, faas y hosting. Una alternativa es https://www.back4app.com/[Back4App].
