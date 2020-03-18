@@ -62,6 +62,14 @@ Para la validación de formularios.
 
 Para elaborar estilos CSS en javascript.
 
+#### https://tinacms.org/[TinaCMS]
+
+Una forma novedosa de editar el contenido dentro del sitio web.
+
+#### https://github.com/pinojs/pino[Pino.js]
+
+Para hacer logging. Alternativas https://github.com/winstonjs/winston[Winston] y https://github.com/download/ulog[uLog].
+
 #### https://docsify.js.org/#/[Docsify.js]
 
 Una simple forma de generar páginas de documentación. Una buena alternativa es https://docusaurus.io/en/[Docusaurus].
