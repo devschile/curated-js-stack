@@ -17,3 +17,66 @@ toc::[]
 ## Introducción
 
 En el ecosistema de _Javascript_ existe una gran multitud de herramientas para poder elaborar proyectos. En este pequeño documento se pondrá una selección pragmática con el fin de facilitar la toma de decisiones. Como siempre, se debe elegir según las necesidades de cada contexto. Tomen esta guía como simples sugerencias.
+
+## Frontend
+
+Las herramientas seleccionadas para elaborar proyectos de fontend son las siguientes.
+
+### Herramientas Base
+
+#### https://bulma.io/[Bulma.css]
+
+Fácil y simple de usar. Alternativa al venerable https://getbootstrap.com/[Bootstrap] y https://get.foundation/[Foundation]. Otro contendiente es https://tailwindcss.com/[Tailwind] o http://getskeleton.com/[Skeleton].
+
+#### https://daneden.github.io/animate.css/[Animate.css]
+
+Para añadir animaciones utilizando solamente CSS.
+
+#### https://reactjs.org/[React.js]
+
+Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs] o https://svelte.dev/[Svelte] principalmente por su alta popularidad y la posibilidad de extrapolar los conocimientos a desarrollo móvil con https://reactnative.dev/[React Native]. Una buena alternativa a https://reactjs.org/[React] es https://preactjs.com/[Preact], que es básicamente la misma API pero más ligera.
+
+Se recomienda el utilizar https://reactjs.org/docs/hooks-overview.html[React Hooks].
+
+#### https://ant.design/[Ant.design]
+
+Un sistema de diseño para productos de calidad empresarial. Un complemento es https://material-ui.com/[Material UI].
+
+#### https://github.com/axios/axios[Axios]
+
+Utilizar _axios_ para hacer llamados a servidores REST. Complementar con https://github.com/infinitered/apisauce[API Sauce] y https://github.com/zeit/swr[SWR]. Para clientes _GraphQL_ se recomienda usar https://www.apollographql.com/[Apollo].
+
+#### https://redux-toolkit.js.org/[Redux]
+
+Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Redux] con https://github.com/reduxjs/redux-thunk[Redux Thunk]. Complementar con https://github.com/jkeam/reduxsauce[Redux Sauce] y https://github.com/rt2zz/redux-persist[Redux Persist]. Una alternativa a todo esto es https://github.com/dvajs/dva[DVA].
+
+#### https://github.com/jaredpalmer/formik[Formik]
+
+Para la elaboración de formularios.
+
+#### https://github.com/jquense/yup[YUP]
+
+Para la validación de formularios.
+
+#### https://github.com/emotion-js/emotion[Emotion]
+
+Para elaborar estilos CSS en javascript.
+
+#### https://docsify.js.org/#/[Docsify.js]
+
+Una simple forma de generar páginas de documentación. Una buena alternativa es https://docusaurus.io/en/[Docusaurus].
+
+### Tipos de Proyecto
+
+#### Página web estática simple (https://github.com/brandonweiss/charge[Charge.js])
+
+Una simple página web como un landing page. No necesita herramientas complejas. Por lo que se ha seleccionado https://github.com/brandonweiss/charge[Charge] como una alternativa más ligera a _Gatsby_.
+
+#### Página web estática compleja (https://www.gatsbyjs.org/[Gatsby.js])
+
+Una página web que requiera de mayor complejidad (como llamar a servidores y otras fuentes de datos). Se recomienda utilizar https://www.gatsbyjs.org/[Gatsby]. (Se diferencia de _Next.js_ en que se debe recompilar la página web cada vez que se desee subir los cambios al servidor).
+
+#### Sistema web dinámico. (https://nextjs.org/[Next.js])
+
+Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho contenido, utilizar https://nextjs.org/[Next.js]. Alternativa https://umijs.org/[Umi.js].
+
