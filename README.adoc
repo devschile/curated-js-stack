@@ -258,3 +258,7 @@ Para hospedar páginas web simples y rápidas.
 ### https://www.cloudflare.com/[Cloudflare]
 
 Para tener una gestión de DNS mejorada.
+
+### https://www.postman.com/[Postman]
+
+Para probar APIs. Alternativas https://insomnia.rest/[Insomnia] y https://postwoman.io/[Postwoman].
