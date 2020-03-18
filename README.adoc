@@ -34,7 +34,7 @@ Para añadir animaciones utilizando solamente CSS.
 
 #### https://reactjs.org/[React.js]
 
-Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs] o https://svelte.dev/[Svelte] principalmente por su alta popularidad y la posibilidad de extrapolar los conocimientos a desarrollo móvil con https://reactnative.dev/[React Native]. Una buena alternativa a https://reactjs.org/[React] es https://preactjs.com/[Preact], que es básicamente la misma API pero más ligera.
+Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs] o https://svelte.dev/[Svelte] principalmente por su alta popularidad y la posibilidad de extrapolar los conocimientos a desarrollo móvil con https://reactnative.dev/[React Native]. Una buena alternativa a https://reactjs.org/[React] es https://preactjs.com/[Preact], que es básicamente la misma API pero más ligera. Complementar con https://github.com/ReactTraining/react-router[React Router].
 
 Se recomienda el utilizar https://reactjs.org/docs/hooks-overview.html[React Hooks].
 
@@ -79,4 +79,16 @@ Una página web que requiera de mayor complejidad (como llamar a servidores y ot
 #### Sistema web dinámico. (https://nextjs.org/[Next.js])
 
 Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho contenido, utilizar https://nextjs.org/[Next.js]. Alternativa https://umijs.org/[Umi.js].
+
+#### Aplicación Móvil Nativa (https://reactnative.dev/[React Native])
+
+Permite elaborar aplicaciones utilizando la misma tecnología de _React_. Complementar con https://reactnavigation.org/[React Navigation].
+
+#### Aplicación Móvil Webview (https://onsen.io/[Onsen])
+
+Otorga un marco de trabajo para crear aplicaciones móviles de Webview usando _React_ o _JS Vanilla_.
+
+#### Aplicación de Escritorio (https://github.com/neutralinojs/neutralinojs[Neutralino.js])
+
+Una buena alternativa a https://www.electronjs.org/[Electron].
 
