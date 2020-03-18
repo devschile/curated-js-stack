@@ -285,3 +285,19 @@ Para probar APIs. Alternativas https://insomnia.rest/[Insomnia] y https://postwo
 
 Complementar con https://github.com/zanata/zanata-platform[Zanata] o https://crowdin.com/[Crowdin].
 
+### https://hyper.is/[Hyper]
+
+Una buena terminal
+
+### https://github.com/oh-my-fish/oh-my-fish[Oh my Fish]
+
+Sugar para la http://fishshell.com/[fish shell]. Se recomienda el theme https://github.com/oh-my-fish/theme-bobthefish[Bob the Fish] con https://www.nerdfonts.com/[NerdFonts]
+
+```sh
+omf install bobthefish
+brew tap homebrew/cask-fonts
+brew cask install font-hermit-nerd-font
+set -U theme_nerd_fonts yes
+```
+
+https://gist.github.com/clsource/4bd6eff7a91385ebdc25d36bf932ee7a[Pequeña Guía de Instalación en MacOS].
