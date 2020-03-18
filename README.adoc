@@ -155,6 +155,19 @@ Para almacenamiento de datos rápido, cache y cálculo de puntos de geoposición
 
 Para almacenamiento de datos no relacional. Alternativa https://couchdb.apache.org/[CouchDB].
 
+### Misc
+#### https://konghq.com/[Kong]
+
+Para orquestar una arquitectura de microservicios.
+
+#### https://www.openapis.org/[OpenAPI]
+
+Para la estandarización de servicios REST. Alternativa de documentación https://apiblueprint.org/[API Blueprint].
+
+#### https://www.apollographql.com/docs/apollo-server/[Apollo Server]
+
+Para la estandarización de servicios GraphQL.
+
 ## Testing
 
 ### https://jestjs.io/[Jest]
@@ -236,4 +249,12 @@ Para servidores VPS. Alternativas https://www.vultr.com/[Vultr] y https://www.li
 
 ### https://firebase.google.com/[Firebase]
 
-Para un servicio de base de datos, push notificacions, faas y hosting. Una alternativa es https://www.back4app.com/[Back4App].
+Para un servicio de base de datos, push notifications, FAAS y hosting. Una alternativa es https://www.back4app.com/[Back4App].
+
+### https://neocities.org/[Neocities]
+
+Para hospedar páginas web simples y rápidas.
+
+### https://www.cloudflare.com/[Cloudflare]
+
+Para tener una gestión de DNS mejorada.
