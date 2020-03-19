@@ -1,6 +1,6 @@
 :toc: macro
 :toc-title: Tabla de Contenidos
-:toclevels: 99
+:toclevels: 3
 
 # Curated Javascript Stack
 
@@ -53,6 +53,7 @@ Para crear estilos css más modulares y fáciles de mantener.
 #### https://ant.design/[Ant.design]
 
 Un sistema de diseño para productos de calidad empresarial. Un complemento es https://material-ui.com/[Material UI].
+También se recomienda utilizar https://storybook.js.org/[Storybook] (https://www.learnstorybook.com/[Tutoriales]).
 
 #### https://github.com/axios/axios[Axios]
 
@@ -225,6 +226,39 @@ indent_size = 2
 
 Permite corregir y detectar errores al escribir el código.
 
+### https://lodash.com/[lodash]
+
+Utilidades para _Javascript_. https://www.instagram.com/p/B916DgolMKV/?utm_source=newline&utm_medium=email&utm_campaign=lodash_20200319&utm_content=l2&inf_contact_key=851762ec25481d525ab4db7edc628974cc0558ed5d4c28cbfab114022b1ec50d[Acá una buena presentación].
+
+Se recomienda usar como:
+
+```js
+const _ = require("lodash")
+```
+
+Lo anterior servirá para la mayoría de los casos pero https://nodejs.org/api/repl.html[Node REPL] no soporta
+asignar variables con nombre guión bajo `_`.
+
+Por lo que se recomienda usar:
+
+```js
+const lodash = require("lodash")
+```
+
+#### Funciones destacadas
+
+- https://lodash.com/docs/4.17.15#get[lodash.get()]: Permite obtener valores de un objeto de forma segura.
+
+- https://lodash.com/docs/4.17.15#sortBy[lodash.sortBy()]: la función sort() _Javascript_ convierte los números a string antes de comparar. Por lo que esta función ofrece un mejor mecanismo. 
+
+- https://lodash.com/docs/4.17.15#flatten[lodash.flatten()]: Permite convertir un arreglo de arreglos en un arreglo simple.
+
+- https://lodash.com/docs/4.17.15#uniq[lodash.uniq()]: Permite obtener los valores únicos dentro de un arreglo.
+
+- https://lodash.com/docs/4.17.15#merge[lodash.merge()]: Permite combinar objetos.
+
+- https://lodash.com/docs/4.17.15#keyBy[lodash.keyBy()]: Permite transformar objetos para facilitar su utilización.
+
 ### https://code.visualstudio.com/[Visual Studio Code]
 
 Editor de código flexible. Para la terminal se recomienda https://neovim.io/[NeoVim].
@@ -271,7 +305,7 @@ Para un servicio de base de datos, push notifications, FAAS y hosting. Una alter
 
 ### https://neocities.org/[Neocities]
 
-Para hospedar páginas web simples y rápidas.
+Para hospedar páginas web gratuita, simple y rápidamente.
 
 ### https://www.cloudflare.com/[Cloudflare]
 
