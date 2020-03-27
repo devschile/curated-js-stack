@@ -147,9 +147,9 @@ https://github.com/lukeed/polka[Polka] para APIs simples y rápidas.
 
 Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js].
 
-### Sistema API Serverless (https://claudiajs.com/claudia.html[Claudia.js])
+### Sistema API Serverless (https://github.com/vandium-io/vandium-node[Vandium])
 
-Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Si no se desea utilizar _Amazon_
+Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Una alternativa es https://claudiajs.com/claudia.html[Claudia.js]. Si no se desea utilizar _Amazon_
 se puede utilizar https://github.com/openfaas/faas[OpenFaaS] o https://serverless.com/[Serverless].
 
 ### Base de Datos
