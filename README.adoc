@@ -259,7 +259,7 @@ const lodash = require("lodash")
 
 - https://lodash.com/docs/4.17.15#keyBy[lodash.keyBy()]: Permite transformar objetos para facilitar su utilización.
 
-### https://code.visualstudio.com/[Visual Studio Code]
+### https://github.com/VSCodium/vscodium[Visual Studio Code (VSCodium)]
 
 Editor de código flexible. Para la terminal se recomienda https://neovim.io/[NeoVim].
 
