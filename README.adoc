@@ -95,9 +95,6 @@ https://github.com/socketio/socket.io[Socket.io] para enviar datos en tiempo rea
 
 https://momentjs.com/[Moment.js] para manejo de fechas. Unas alternativas https://github.com/you-dont-need/You-Dont-Need-Momentjs[en este repo].
 
-#### https://docsify.js.org/#/[Docsify.js]
-
-Una simple forma de generar páginas de documentación. Una buena alternativa es https://docusaurus.io/en/[Docusaurus].
 
 ### Tipos de Proyecto
 
@@ -335,3 +332,10 @@ set -U theme_nerd_fonts yes
 ```
 
 https://gist.github.com/clsource/4bd6eff7a91385ebdc25d36bf932ee7a[Pequeña Guía de Instalación en MacOS].
+
+### Documentación: https://docs.antora.org/[Antora Docs]
+
+La documentación es una importante fase del desarrollo de proyectos de software.
+Una buena herramienta es https://docs.antora.org/[Antora Docs]. 
+Alternativas son https://docsify.js.org/#/[Docsify.js]
+o https://docusaurus.io/en/[Docusaurus].
