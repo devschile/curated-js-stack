@@ -196,7 +196,7 @@ Herramientas de uso general.
 
 ### https://prettier.io/[Prettier.io]
 
-Estandaríza el estilo de código. Seguir la guía de estilo de https://github.com/airbnb/javascript[AirBNB].
+Estandaríza el estilo de código. Seguir la guía de estilo de https://github.com/airbnb/javascript[AirBNB]. Alternativa https://github.com/standard/standard[Standard JS].
 
 ### https://editorconfig.org/[Editor Config]
 
@@ -333,7 +333,7 @@ set -U theme_nerd_fonts yes
 
 https://gist.github.com/clsource/4bd6eff7a91385ebdc25d36bf932ee7a[Pequeña Guía de Instalación en MacOS].
 
-### Documentación: https://docs.antora.org/[Antora Docs]
+### https://docs.antora.org/[Antora Docs] (Documentación)
 
 La documentación es una importante fase del desarrollo de proyectos de software.
 Una buena herramienta es https://docs.antora.org/[Antora Docs]. 
