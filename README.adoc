@@ -136,9 +136,9 @@ Para proyectos a nivel del servidor se han seleccionado las siguientes herramien
 
 https://strapi.io/[Strapi.js] es ideal como una alternativa a _Wordpress_.
 
-### Sistema API Simple (https://github.com/lukeed/polka[Polka])
+### Sistema API Simple (https://www.fastify.io[Fastify])
 
-https://github.com/lukeed/polka[Polka] para APIs simples y rápidas.
+https://www.fastify.io/[Fastify] para APIs simples y rápidas. Alternativa https://github.com/lukeed/polka[Polka].
 
 ### Sistema API Compleja (https://adonisjs.com/[Adonis.js])
 
@@ -146,7 +146,7 @@ Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js]
 
 ### Sistema API Serverless (https://github.com/vandium-io/vandium-node[Vandium])
 
-Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Una alternativa es https://claudiajs.com/claudia.html[Claudia.js]. Si no se desea utilizar _Amazon_
+Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Una alternativa es https://middy.js.org/[Middy] o https://claudiajs.com/claudia.html[Claudia.js]. Si no se desea utilizar _Amazon_
 se puede utilizar https://github.com/openfaas/faas[OpenFaaS] o https://serverless.com/[Serverless].
 
 ### Base de Datos
