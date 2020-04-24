@@ -61,7 +61,7 @@ Utilizar _axios_ para hacer llamados a servidores REST. Complementar con https:/
 
 #### https://redux-toolkit.js.org/[Redux]
 
-Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Redux] con https://github.com/reduxjs/redux-thunk[Redux Thunk]. Complementar con https://github.com/jkeam/reduxsauce[Redux Sauce] y https://github.com/rt2zz/redux-persist[Redux Persist]. Se recomienda seguir el patrón https://github.com/erikras/ducks-modular-redux[Ducks]. Una alternativa a todo esto es https://github.com/dvajs/dva[DVA].
+Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Redux] con https://github.com/reduxjs/redux-thunk[Redux Thunk]. Complementar con https://github.com/jkeam/reduxsauce[Redux Sauce] y https://github.com/rt2zz/redux-persist[Redux Persist]. Se recomienda seguir el patrón https://github.com/erikras/ducks-modular-redux[Ducks]. Una alternativa a todo esto es https://github.com/dvajs/dva[DVA], https://github.com/immerjs/immer[Immer] o https://github.com/lukeed/vegemite[Vegemite].
 
 #### https://github.com/jaredpalmer/formik[Formik]
 
