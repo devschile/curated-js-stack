@@ -108,7 +108,7 @@ Una página web que requiera de mayor complejidad (como llamar a servidores y ot
 
 #### Sistema web dinámico. (https://nextjs.org/[Next.js])
 
-Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho contenido, utilizar https://nextjs.org/[Next.js]. Alternativa https://umijs.org/[Umi.js].
+Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho contenido, utilizar https://nextjs.org/[Next.js]. https://github.com/blitz-js/blitz[Blitz] es una configuración de _Next.js_ más amigable y parecida a _Rails_. Alternativa https://umijs.org/[Umi.js].
 
 #### Aplicación Móvil Nativa (https://reactnative.dev/[React Native])
 
