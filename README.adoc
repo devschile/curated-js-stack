@@ -142,7 +142,7 @@ https://www.fastify.io/[Fastify] para APIs simples y rápidas. Alternativa https
 
 ### Sistema API Compleja (https://adonisjs.com/[Adonis.js])
 
-Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js].
+Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js]. También puedes probar https://jinaga.com/[Jinaga] como una forma de estandarizar los endpoints.
 
 ### Sistema API Serverless (https://github.com/vandium-io/vandium-node[Vandium])
 
