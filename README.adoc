@@ -40,7 +40,7 @@ Se ha seleccionado _React_ por sobre alternativas como https://vuejs.org/[Vuejs]
 
 Se recomienda el utilizar https://reactjs.org/docs/hooks-overview.html[React Hooks].
 
-Se recomienda https://github.com/NYTimes/kyt[Kyt] para iniciar los proyectos. Una alternativa es https://github.com/facebook/create-react-app[Create React App] (https://github.com/tuchk4/awesome-create-react-app[Ver lista de recursos]).
+Se recomienda https://github.com/leonardomso/react-bolt[React Bolt] para iniciar los proyectos. Una alternativa es https://github.com/facebook/create-react-app[Create React App] (https://github.com/tuchk4/awesome-create-react-app[Ver lista de recursos]) o https://github.com/NYTimes/kyt[Kyt].
 
 #### https://stylelint.io/[Style lint]
 
