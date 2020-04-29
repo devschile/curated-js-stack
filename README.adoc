@@ -85,7 +85,7 @@ Para hacer logging. Alternativas https://github.com/winstonjs/winston[Winston] y
 
 #### https://pouchdb.com/[PouchDB]
 
-https://pouchdb.com/[PouchDB] para sincronizar datos cliente - servidor.
+https://pouchdb.com/[PouchDB] para sincronizar datos cliente - servidor. Si prefieres SQl puedes usar http://alasql.org/[AlaSQL].
 
 #### https://github.com/socketio/socket.io[Socket.io]
 
