@@ -93,7 +93,7 @@ https://github.com/socketio/socket.io[Socket.io] para enviar datos en tiempo rea
 
 #### https://momentjs.com/[Moment.js]
 
-https://momentjs.com/[Moment.js] para manejo de fechas. Unas alternativas https://github.com/you-dont-need/You-Dont-Need-Momentjs[en este repo]. Alternativa https://github.com/iamkun/dayjs[DayJS] o https://github.com/you-dont-need/You-Dont-Need-Momentjs[You don´t need Momentjs].
+https://momentjs.com/[Moment.js] para manejo de fechas. Alternativa https://github.com/iamkun/dayjs[DayJS], https://github.com/date-fns/date-fns[Date fns] o https://github.com/you-dont-need/You-Dont-Need-Momentjs[You don´t need Momentjs].
 
 
 ### Tipos de Proyecto
