@@ -65,7 +65,7 @@ Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Re
 
 #### https://github.com/jaredpalmer/formik[Formik]
 
-Para la elaboración de formularios. Alternative https://github.com/react-hook-form/react-hook-form[React Hook Form].
+Para la elaboración de formularios. Alternativa https://github.com/react-hook-form/react-hook-form[React Hook Form].
 
 #### https://github.com/jquense/yup[YUP]
 
@@ -73,7 +73,7 @@ Para la validación de formularios.
 
 #### https://github.com/emotion-js/emotion[Emotion]
 
-Para elaborar estilos CSS en javascript. Alternativ https://github.com/styled-components/styled-components[Styled Components].
+Para elaborar estilos CSS en javascript. Alternativa https://github.com/styled-components/styled-components[Styled Components].
 
 #### https://tinacms.org/[TinaCMS]
 
@@ -85,7 +85,7 @@ Para hacer logging. Alternativas https://github.com/winstonjs/winston[Winston] y
 
 #### https://pouchdb.com/[PouchDB]
 
-https://pouchdb.com/[PouchDB] para sincronizar datos cliente - servidor. Si prefieres SQl puedes usar http://alasql.org/[AlaSQL].
+https://pouchdb.com/[PouchDB] para sincronizar datos cliente - servidor. Si prefieres _SQL_ puedes usar http://alasql.org/[AlaSQL].
 
 #### https://github.com/socketio/socket.io[Socket.io]
 
@@ -93,7 +93,7 @@ https://github.com/socketio/socket.io[Socket.io] para enviar datos en tiempo rea
 
 #### https://momentjs.com/[Moment.js]
 
-https://momentjs.com/[Moment.js] para manejo de fechas. Unas alternativas https://github.com/you-dont-need/You-Dont-Need-Momentjs[en este repo].
+https://momentjs.com/[Moment.js] para manejo de fechas. Unas alternativas https://github.com/you-dont-need/You-Dont-Need-Momentjs[en este repo]. Alternativa https://github.com/iamkun/dayjs[DayJS] o https://github.com/you-dont-need/You-Dont-Need-Momentjs[You don´t need Momentjs].
 
 
 ### Tipos de Proyecto
