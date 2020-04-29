@@ -65,7 +65,7 @@ Para el manejo de estado se recomienda utilizar https://redux-toolkit.js.org/[Re
 
 #### https://github.com/jaredpalmer/formik[Formik]
 
-Para la elaboración de formularios.
+Para la elaboración de formularios. Alternative https://github.com/react-hook-form/react-hook-form[React Hook Form].
 
 #### https://github.com/jquense/yup[YUP]
 
@@ -73,7 +73,7 @@ Para la validación de formularios.
 
 #### https://github.com/emotion-js/emotion[Emotion]
 
-Para elaborar estilos CSS en javascript.
+Para elaborar estilos CSS en javascript. Alternativ https://github.com/styled-components/styled-components[Styled Components].
 
 #### https://tinacms.org/[TinaCMS]
 
@@ -104,7 +104,7 @@ Una simple página web como un landing page. No necesita herramientas complejas.
 
 #### Página web estática compleja (https://www.gatsbyjs.org/[Gatsby.js])
 
-Una página web que requiera de mayor complejidad (como llamar a servidores y otras fuentes de datos). Se recomienda utilizar https://www.gatsbyjs.org/[Gatsby]. (Se diferencia de _Next.js_ en que se debe recompilar la página web cada vez que se desee subir los cambios al servidor).
+Una página web que requiera de mayor complejidad (como llamar a servidores y otras fuentes de datos). Se recomienda utilizar https://www.gatsbyjs.org/[Gatsby]. (Se diferencia de _Next.js_ en que se debe recompilar la página web cada vez que se desee subir los cambios al servidor). Si les gusta _Vue.js_ pueden usar https://github.com/gridsome/gridsome[Grinsome].
 
 #### Sistema web dinámico. (https://nextjs.org/[Next.js])
 
@@ -184,7 +184,7 @@ Como alternativa a https://aws.amazon.com/es/s3/[Amazon S3].
 
 ### https://jestjs.io/[Jest]
 
-Test runner. Una alternativa es https://mochajs.org/[Mocha] con https://www.chaijs.com/[Chai] o https://github.com/avajs/ava[Ava].
+Test runner. Complementar con https://github.com/testing-library/react-testing-library[React Testing Library]. Una alternativa es https://mochajs.org/[Mocha] con https://www.chaijs.com/[Chai] o https://github.com/avajs/ava[Ava].
 
 ### https://github.com/enzymejs/enzyme[Enzyme]
 
@@ -314,7 +314,7 @@ Para probar APIs. Alternativas https://insomnia.rest/[Insomnia] y https://postwo
 
 ### https://www.i18next.com/[i18next] (Traducciones)
 
-Complementar con https://github.com/zanata/zanata-platform[Zanata] o https://crowdin.com/[Crowdin]. Alternativa https://ttag.js.org/[TTag].
+Complementar con https://github.com/zanata/zanata-platform[Zanata] o https://crowdin.com/[Crowdin]. Alternativa https://ttag.js.org/[TTag] o https://github.com/lingui/js-lingui[JS-Lingui].
 
 ### https://hyper.is/[Hyper]
 
