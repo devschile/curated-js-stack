@@ -190,6 +190,9 @@ Test runner. Complementar con https://github.com/testing-library/react-testing-l
 
 https://github.com/enzymejs/enzyme[Enzyme] es exclusivo para React. Permite probar el contenido de los componentes.
 
+### https://github.com/cypress-io/cypress[Cypress]
+End to End Testing.
+
 ## Misceláneo
 
 Herramientas de uso general.
