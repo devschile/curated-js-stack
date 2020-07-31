@@ -106,9 +106,9 @@ Una simple página web como un landing page. No necesita herramientas complejas.
 
 Una página web que requiera de mayor complejidad (como llamar a servidores y otras fuentes de datos). Se recomienda utilizar https://www.gatsbyjs.org/[Gatsby]. (Se diferencia de _Next.js_ en que se debe recompilar la página web cada vez que se desee subir los cambios al servidor). Si les gusta _Vue.js_ pueden usar https://github.com/gridsome/gridsome[Grinsome].
 
-#### Sistema web dinámico. (https://nextjs.org/[Next.js])
+#### Sistema web dinámico. (https://github.com/blitz-js/blitz[Blitz])
 
-Para cuando compilar el sitio web no es sostenible. Ideal para sitios con mucho contenido, utilizar https://nextjs.org/[Next.js]. https://github.com/blitz-js/blitz[Blitz] es una configuración de _Next.js_ más amigable y parecida a _Rails_. Alternativa https://umijs.org/[Umi.js].
+Para cuando compilar el sitio web no es sostenible. _Blitz_ es una configuración de _Next.js_ más amigable y parecida a _Rails_. Ideal para sitios con mucho contenido. También se puede utilizar https://nextjs.org/[Next.js] o https://umijs.org/[Umi.js].
 
 #### Aplicación Móvil Nativa (https://reactnative.dev/[React Native])
 
@@ -140,13 +140,13 @@ https://strapi.io/[Strapi.js] es ideal como una alternativa a _Wordpress_.
 
 https://www.fastify.io/[Fastify] para APIs simples y rápidas. Alternativa https://github.com/lukeed/polka[Polka].
 
-### Sistema API Compleja (https://adonisjs.com/[Adonis.js])
+### Sistema API Compleja (https://hapipal.com/[Hapi pal])
 
-Una alternativa a https://adonisjs.com/[Adonis.js] es https://hapi.dev/[Hapi.js]. También puedes probar https://jinaga.com/[Jinaga] como una forma de estandarizar los endpoints.
+Una alternativa es https://adonisjs.com/[Adonis.js]. También puedes probar https://jinaga.com/[Jinaga] como una forma de estandarizar los endpoints.
 
-### Sistema API Serverless (https://github.com/vandium-io/vandium-node[Vandium])
+### Sistema API Serverless (https://hapipal.com/[Hapi pal] o https://github.com/vandium-io/vandium-node[Vandium])
 
-Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda]. Una alternativa es https://middy.js.org/[Middy] o https://claudiajs.com/claudia.html[Claudia.js]. Si no se desea utilizar _Amazon_
+Para trabajar con funciones https://aws.amazon.com/es/lambda/[AWS Lambda] (También sirve _Hapi Pal_). Una alternativa es https://middy.js.org/[Middy] o https://claudiajs.com/claudia.html[Claudia.js]. Si no se desea utilizar _Amazon_
 se puede utilizar https://github.com/openfaas/faas[OpenFaaS] o https://serverless.com/[Serverless].
 
 ### Base de Datos
@@ -342,3 +342,11 @@ La documentación es una importante fase del desarrollo de proyectos de software
 Una buena herramienta es https://docs.antora.org/[Antora Docs]. 
 Alternativas son https://docsify.js.org/#/[Docsify.js]
 o https://docusaurus.io/en/[Docusaurus].
+
+### Frameworks recomendados para otros lenguajes
+
+- PHP: https://laravel-livewire.com/[Laravel + Livewire].
+- Elixir: https://www.phoenixframework.org/[Phoenix Framework].
+- Python: https://github.com/MasoniteFramework[Masonite].
+- C#: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor[Blazor]. 
+
